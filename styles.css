@@ -1,0 +1,35 @@
+body {         
+    font-family: Arial, sans-serif;
+    text-align:center;
+}
+#head-list {
+    list-style: none;
+   display: flex;
+    gap: 10px; 
+    justify-content: center;
+    
+    
+}
+li {
+    display: inline;
+    margin-right: 50px;
+}
+#sida a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+}
+#body3 {
+    background-color: rgb(135, 194, 196);
+}
+#body2 {
+     background-color:rgb(211, 186, 221) ;
+}
+#body1 {
+     background-color:burlywood;
+}
