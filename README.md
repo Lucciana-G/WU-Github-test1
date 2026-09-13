@@ -8,9 +8,11 @@ För att skapa en kontaktformulär har jag använt fieldset, label, input, secti
 Jag även skapat en enkel CSS sidan för att designa lite mina sidor med lite grund tekniker.
 
 
-### Här är länkar till min sida, publicerat på GitHub och Netlify:
+### Här är länkar till min sida, publicerat på GitHub, Render och Netlify:
 
-. ( https://wu-github-test1.onrender.com ) GitHub 
+. ( https://wu-github-test1.onrender.com ) Render
+
+. (https://lucciana-g.github.io/WU-Github-test1/) GitHub
 
 . ( https://iridescent-pastelito-d25407.netlify.app/ ) Netlify
 
